@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at school <br>🌱 I’m currently learning rust
+🔭 I’m currently working at school
 
 
 # 💻 Tech Stack:
